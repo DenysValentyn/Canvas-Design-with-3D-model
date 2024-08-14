@@ -12,8 +12,6 @@ An online designing tool integrated with Instant 3D Rendering and Drag & Drop Ca
 
 ## Demo
 
-- Link: <https://room-801fb.web.app/>
-
 - Test Account
   - User: user@gmail.com
   - Password: batch13
@@ -81,7 +79,4 @@ An online designing tool integrated with Instant 3D Rendering and Drag & Drop Ca
 - Estimate cost of a room plan(furnitures, coverings, wall paint)
 - Upload texture of customized coverings
 
-## Contact
 
-- Website: <https://chiangpolin.github.io/>
-- Email: polin.chiang1996@gmail.com
